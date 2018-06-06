@@ -1,2 +1,2 @@
-# dashpilot.github.io
-The main repo for GitHub Pages
+# DashPilot
+[https://dashpilot.com](https://dashpilot.com)
